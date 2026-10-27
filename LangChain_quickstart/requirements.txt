@@ -1,0 +1,4 @@
+langchain
+langchain-openai
+python-dotenv
+#python -m pip freeze > requirements.txt 自动导入
